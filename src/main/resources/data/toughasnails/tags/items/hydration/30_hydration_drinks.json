@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
 	"minecraft:milk_bucket",
-	"toughasnails:pumpkin_juice"
+	"toughasnails:pumpkin_juice",
+  "pamhc2foodextended:carrotjuiceitem"
   ]
 }
