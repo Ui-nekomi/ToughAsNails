@@ -3,6 +3,12 @@
   "values": [
 	"toughasnails:glow_berry_juice",
 	"toughasnails:pumpkin_juice",
-	"toughasnails:sweet_berry_juice"
+	"toughasnails:sweet_berry_juice",
+  "pamhc2foodcore:fruitpunchitem",
+  "pamhc2foodcore:p8juiceitem",
+  "pamhc2foodcore:hotnettleteaitem",
+    "pamhc2foodcore:hotteaitem",
+    "pamhc2foodcore:hotcoffeeitem",
+    "pamhc2foodcore:hotchocolateitem"
   ]
 }

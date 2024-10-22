@@ -2,6 +2,19 @@
   "replace": false,
   "values": [
 	"toughasnails:cactus_juice",
-	"toughasnails:melon_juice"
+	"toughasnails:melon_juice",
+  "pamhc2foodextended:sweetteaitem",
+    "pamhc2foodextended:chaiteaitem",
+    "pamhc2foodextended:greenteaitem",
+    "pamhc2foodextended:earlgreyteaitem",
+    "pamhc2foodextended:dandelionteaitem",
+    "pamhc2foodextended:rosepetalteaitem",
+    "pamhc2foodextended:sundayhighteaitem",
+    "pamhc2foodextended:coffeeconlecheitem",
+    "pamhc2foodextended:expressoitem",
+    "pamhc2foodextended:hazelnutitem",
+    "pamhc2foodextended:pumpkinspicelatteitem",
+    "pamhc2foodextended:applecideritem",
+    "pamhc2foodextended:eggnogitem"
   ]
 }

@@ -1,6 +1,30 @@
 {
   "replace": false,
   "values": [
-    "pamhc2foodextended:carrotjuiceitem"
+  "pamhc2foodextended:carrotjuiceitem",
+  "pamhc2foodcore:glowberryjuiceitem",
+  "pamhc2foodcore:sweetberryjuiceitem",
+  "pamhc2foodextended:lemonaideitem",
+  "pamhc2foodextended:blackberryjuiceitem",
+  "pamhc2foodextended:blueberryjuiceitem",
+  "pamhc2foodextended:cactusfruitjuiceitem",
+  "pamhc2foodextended:candleberryjuiceitem",
+  "pamhc2foodextended:cranberryjuiceitem",
+  "pamhc2foodextended:elderberryjuiceitem",
+  "pamhc2foodextended:huckleberryjuiceitem",
+  "pamhc2foodextended:juniperberryjuiceitem",
+  "pamhc2foodextended:mulberryjuiceitem",
+  "pamhc2foodextended:raspberryjuiceitem",
+  "pamhc2foodextended:strawberryjuiceitem",
+  "pamhc2foodextended:cantaloupejuiceitem",
+  "pamhc2foodextended:grapejuiceitem",
+  "pamhc2foodextended:greengrapejuiceitem",
+  "pamhc2foodextended:kiwijuiceitem",
+  "pamhc2foodextended:pineapplejuiceitem",
+  "pamhc2foodextended:limejuiceitem",
+  "pamhc2foodextended:lemonjuiceitem",
+  "pamhc2foodextended:durianjuiceitem",
+  "pamhc2foodextended:gooseberryjuiceitem",
+  "pamhc2foodextended:pinacoladaitem"
   ]
 }

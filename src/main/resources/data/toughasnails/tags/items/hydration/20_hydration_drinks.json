@@ -3,6 +3,11 @@
   "values": [
 	"minecraft:potion",
 	"toughasnails:water_canteen",
-	"toughasnails:chorus_fruit_juice"
+	"toughasnails:chorus_fruit_juice",
+  "pamhc2foodextended:soymilkitem",
+  "pamhc2foodcore:freshmilkitem",
+  "pamhc2foodcore:freshwateritem",
+  "pamhc2foodextended:chocolatemilkitem",
+  "pamhc2foodextended:chocolatemilkshakeitem"
   ]
 }

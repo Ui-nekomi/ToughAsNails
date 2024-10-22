@@ -2,6 +2,16 @@
   "replace": false,
   "values": [
   	"toughasnails:apple_juice",
-	"toughasnails:melon_juice"
+	"toughasnails:melon_juice",
+  "pamhc2foodextended:cherrysodaitem",
+    "pamhc2foodextended:colasodaitem",
+    "pamhc2foodextended:gingersodaitem",
+    "pamhc2foodextended:grapefruitsodaitem",
+    "pamhc2foodextended:lemonlimesodaitem",
+    "pamhc2foodextended:grapesodaitem",
+    "pamhc2foodextended:strawberrysodaitem",
+    "pamhc2foodextended:rootbeersodaitem",
+    "pamhc2foodextended:orangesodaitem",
+    "pamhc2foodextended:rootbearfloatitem"
   ]
 }

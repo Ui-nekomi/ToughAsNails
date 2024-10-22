@@ -1,6 +1,10 @@
 {
   "replace": false,
   "values": [
-	"minecraft:milk_bucket"
+	"minecraft:milk_bucket",
+  "pamhc2foodextended:soymilkitem",
+  "pamhc2foodcore:freshmilkitem",
+  "pamhc2foodextended:chocolatemilkitem",
+  "pamhc2foodextended:chocolatemilkshakeitem"
   ]
 }
