@@ -65,6 +65,12 @@ dependencies {
     minecraft 'net.minecraftforge:forge:' + minecraft_version + '-' + forge_version
     implementation fg.deobf("com.github.glitchfiend:SereneSeasons:${serene_seasons_version}")
     annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
+    minecraft 'net.minecraftforge:forge:' + minecraft_version + '-' + forge_version
+    implementation fg.deobf("github.com.MatrexsVigil:phc2foodcore-1.16.3:${pams_harvest_craft_2_foodcore_version}")
+    annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
+    minecraft 'net.minecraftforge:forge:' + minecraft_version + '-' + forge_version
+    implementation fg.deobf("github.com.MatrexsVigil:phc2foodextended:${pams_harvest_craft_2_foodextended_version}")
+    annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
 }
 
 mixin {
